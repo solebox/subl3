@@ -1,0 +1,23 @@
+{
+	"afterglow_folder_icons": true,
+	"bold_folder_labels": true,
+	"centurion_folder_icons": true,
+	"color_scheme": "Packages/Theme - Cyanide/Monocyanide - Contrasted Light.tmTheme",
+	"contrasted_light_quick_panel": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules"
+	],
+	"font_size": 14,
+	"icon_file_type_enable": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"small_ui_font": true,
+	"theme": "Cyanide - Acid.sublime-theme"
+}

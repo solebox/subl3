@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Case Conversion",
+		"CTags",
+		"Emmet",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"HTMLBeautify",
+		"JSX",
+		"LESS",
+		"npm",
+		"Package Control",
+		"Pylinter",
+		"React ES6 Snippets",
+		"ReactJS",
+		"Theme - Cyanide",
+		"Themr",
+		"XssEncode"
+	]
+}
